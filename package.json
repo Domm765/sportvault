@@ -1,0 +1,12 @@
+{
+  "name": "sportvault",
+  "version": "1.4.0",
+  "description": "Stremio addon: UFC, boxing, WWE legends and sport documentaries",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
